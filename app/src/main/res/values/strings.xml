@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PitchView</string>
+    <string name="action_clear">Clear</string>
+    <string name="action_save">Save to device</string>
+</resources>
